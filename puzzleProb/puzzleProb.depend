@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1634030794 source:c:\users\malepe raymond\puzzleprob\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<queue>
+	<stack>
+	<cstring>
+	<string>
+	<set>
+	<map>
+	<algorithm>
+	<cmath>
+	<iomanip>
+	<bits/stdc++.h>
+
